@@ -1,0 +1,4 @@
+# app-ads.txt - Global Games Studios
+# Sustituye pub-XXXXXXXXXXXXXXXX por tu ID de editor real (AdMob -> Configuracion).
+# El f08c47fec0942fa0 es una constante de Google: va igual para todo el mundo.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
